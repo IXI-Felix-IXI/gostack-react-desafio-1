@@ -1,0 +1,18 @@
+/* ======================== */
+/*        post-list         */
+/* ======================== */
+div.post-list {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  width: 725px;
+  opacity: 0.8;
+  box-sizing: border-box;
+  padding-top: 20px;
+} 
+
+@media (max-width: 650px) {
+  div.post-list {
+    width: 415px;
+  }
+} 

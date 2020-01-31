@@ -1,0 +1,41 @@
+/* ======================== */
+/*        Retângulo         */
+/* ======================== */
+div.header {
+  height: 64px;
+  background: #4A90E2;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+/* ======================== */
+/*        Meu perfil        */
+/* ======================== */
+a {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 20px;
+  text-decoration: none;
+  text-align: center;
+  color: #FFFFFF;
+  align-self: center;
+  padding-right: 30px;
+}
+
+a:hover {
+  color: #30639c;
+}
+
+/* ======================== */
+/*        Facebook          */
+/* ======================== */
+.header img {
+  position: absolute;
+  width: 120.92px;
+  height: 23.93px;
+  left: 41px;
+  top: 25px;
+}

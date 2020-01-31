@@ -1,0 +1,26 @@
+.comment {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.comment p {
+  background: #EEEEEE;
+  border-radius: 20px;
+  padding: 15px;
+  text-align: justify;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 20px;
+  width: 100%;
+}
+
+.comment img {
+  margin-top: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
